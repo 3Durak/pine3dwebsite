@@ -37,9 +37,9 @@ const products = [
     isNew: true,
   },
   {
-    name: '3D Bardak Altlığı',
+    name: 'Formula 1 Dekor',
     image: '/imgs/urun6.jpg',
-    link: 'https://dolap.com/urun/6',
+    link: 'https://link.dolap.com/qbydqo',
     isNew: true,
   },
   {
