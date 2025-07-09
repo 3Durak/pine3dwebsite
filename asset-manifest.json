@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pine3dwebsite/static/css/main.47483457.css",
+    "main.js": "/pine3dwebsite/static/js/main.182d36b7.js",
+    "static/js/453.3f13bb8d.chunk.js": "/pine3dwebsite/static/js/453.3f13bb8d.chunk.js",
+    "index.html": "/pine3dwebsite/index.html",
+    "main.47483457.css.map": "/pine3dwebsite/static/css/main.47483457.css.map",
+    "main.182d36b7.js.map": "/pine3dwebsite/static/js/main.182d36b7.js.map",
+    "453.3f13bb8d.chunk.js.map": "/pine3dwebsite/static/js/453.3f13bb8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47483457.css",
+    "static/js/main.182d36b7.js"
+  ]
+}
