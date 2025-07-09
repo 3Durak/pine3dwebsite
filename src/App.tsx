@@ -31,16 +31,16 @@ const products = [
   },
   
   {
-    name: '3D Anahtarlık',
+    name: 'Maket Uçak',
     image: '/imgs/urun5.jpg',
-    link: 'https://dolap.com/urun/5',
-    isNew: false,
+    link: 'https://link.dolap.com/c8qimn',
+    isNew: true,
   },
   {
     name: '3D Bardak Altlığı',
     image: '/imgs/urun6.jpg',
     link: 'https://dolap.com/urun/6',
-    isNew: false,
+    isNew: true,
   },
   {
     name: '3D Duvar Süsü',
@@ -159,7 +159,7 @@ function App() {
         )}
       </main>
       <footer className="pine3d-footer">
-        <p>Bizi Dolap'ta takip edin: <a href="https://dolap.com/magaza/pine3d" target="_blank" rel="noopener noreferrer">dolap.com/magaza/pine3d</a></p>
+        <p>Bizi Dolap'ta takip edin: <a href="https://link.dolap.com/fauyl3" target="_blank" rel="noopener noreferrer">https://link.dolap.com/fauyl3</a></p>
         <p>© {new Date().getFullYear()} Pine3D</p>
       </footer>
     </div>
